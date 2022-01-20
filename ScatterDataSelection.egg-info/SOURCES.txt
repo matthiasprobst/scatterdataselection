@@ -1,0 +1,7 @@
+README.md
+setup.py
+ScatterDataSelection.egg-info/PKG-INFO
+ScatterDataSelection.egg-info/SOURCES.txt
+ScatterDataSelection.egg-info/dependency_links.txt
+ScatterDataSelection.egg-info/requires.txt
+ScatterDataSelection.egg-info/top_level.txt

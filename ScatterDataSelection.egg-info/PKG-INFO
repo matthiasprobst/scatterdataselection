@@ -1,0 +1,17 @@
+Metadata-Version: 2.1
+Name: ScatterDataSelection
+Version: 0.0.0
+Summary: Tool to selecting data points
+Home-page: N.A.
+Author: Matthias Probst
+Author-email: matth.probst@gmail.com
+License: UNKNOWN
+Description: # ScatterDataSelection
+        
+        Small repo to select data points from a plot
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
